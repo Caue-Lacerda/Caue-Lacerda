@@ -35,4 +35,5 @@ Construindo meu principal projeto Full Stack e aprofundando meus conhecimentos e
 
 ## Contato
 
-[LinkedIn](www.linkedin.com/in/cauê-lacerda-de-oliveira)
+[LinkedIn](https://www.linkedin.com/in/cauê-lacerda-de-oliveira/)
+
