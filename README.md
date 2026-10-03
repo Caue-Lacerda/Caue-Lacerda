@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Cauê 👋
 
-<!--
-**Caue-Lacerda/Caue-Lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em formação, em transição de carreira para desenvolvimento de software.
 
-Here are some ideas to get you started:
+Atualmente meu foco está em desenvolvimento web com TypeScript, React e Node.js, enquanto aprofundo meus conhecimentos em arquitetura, bancos de dados, APIs e infraestrutura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack principal
+
+- TypeScript
+- React
+- Node.js
+- Fastify
+- Prisma
+- PostgreSQL
+- Tailwind CSS
+- Vite
+- Docker
+
+## Outros conhecimentos
+
+- Python, C#, PHP, HTML e CSS
+- Linux, Windows, redes e infraestrutura
+- Docker e servidores
+- Hardware e manutenção de computadores
+- IA, PyTorch, TensorFlow, Stable Diffusion e ComfyUI
+- Modelagem 3D, CAD e voxels
+
+## Projetos
+
+Meus projetos estão disponíveis nos repositórios abaixo.
+
+## Atualmente
+
+Construindo meu principal projeto Full Stack e aprofundando meus conhecimentos em desenvolvimento de software, infraestrutura e arquitetura de aplicações.
+
+## Contato
+
+[LinkedIn](www.linkedin.com/in/cauê-lacerda-de-oliveira)
